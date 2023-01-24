@@ -1,0 +1,3 @@
+const strictEquals = (x, y) => {
+
+}
